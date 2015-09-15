@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.text.DecimalFormat;
 
 /**
  *
@@ -7,7 +6,6 @@ import java.text.DecimalFormat;
  */
 public class Lab03_A {
     static Scanner input = new Scanner(System.in);
-    DecimalFormat format = new DecimalFormat("0.00");
     /**
      * @param args the command line arguments
      */
